@@ -1,2 +1,4 @@
-# java9-labs
-Primeros pasos con Java 9
+#### Primeros pasos con Java 9
+> Eudris Cabrera
+
+Ver presentación en [SlideShare](http://www.slideshare.net/eudris/)
